@@ -1,8 +1,7 @@
-# -자판기 
-
 #include <iostream>
   using namespace std;
-  asdsadasdasd
-  
+ 
+  int main ();
+
   
  
